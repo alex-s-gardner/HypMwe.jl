@@ -1,0 +1,4 @@
+name = "HypMwe"
+uuid = "6b5a70bd-0cfa-4ad5-b10c-a3cdf6063cea"
+authors = ["Alex Gardner <alex.s.gardner@jpl.nasa.gov>"]
+version = "0.1.0"
